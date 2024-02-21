@@ -1,0 +1,11 @@
+"name","Game Number","Game Length","date","Boolean"
+"uno",1,30,10/03/1991,False
+"dos",2,29,14/12/1993,True
+"tres",3,31,19/03/1991,True
+"cuatro",4,16,20/02/1996,True
+"cinco",5,24,10/11/1994,False
+"seis",6,29,11/04/1999,True
+"siete",7,28,10/03/1997,False
+"ocho",8,117,30/03/1991,True
+"nueve",9,42,17/06/1999,False
+"diez",10,23,18/08/1990,True
